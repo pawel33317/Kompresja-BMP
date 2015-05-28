@@ -1,0 +1,24 @@
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Resources\bbb.bmp
+C:\Users\Paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Resources\dbbb.bmp
+C:\Users\Paweł\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Resources\sbbb.bmp
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\bin\Debug\Resources\bbb.bmp
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\bin\Debug\Resources\dbbb.bmp
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\bin\Debug\Resources\sbbb.bmp
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Repos\kodowanie kompresja pmb\kodowanie kompresja pmb\1 - bmp\Kompresja bmp\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
